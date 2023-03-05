@@ -1,0 +1,6 @@
+[submodule "2.-2-DataScienceGuidedCapstone"]
+	path = 2.-2-DataScienceGuidedCapstone
+	url = https://github.com/thaisangcr7/2.-2-DataScienceGuidedCapstone.git
+[submodule "Main_Profile/2.-2-DataScienceGuidedCapstone"]
+	path = Main_Profile/2.-2-DataScienceGuidedCapstone
+	url = https://github.com/thaisangcr7/2.-2-DataScienceGuidedCapstone.git
